@@ -1,0 +1,61 @@
+/* add your CSS here */
+body{
+    font: gray;
+    
+    
+}
+ul{
+	padding: 0;
+}
+li{
+	list-style: none;
+	margin: 0;
+	padding-right: 0;
+}
+
+img{
+	height: 300px;
+    width: 300px;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-bottom: 5%;
+}
+
+div{
+	padding:1%;
+}
+.borders{
+	border: 1px solid grey;
+	box-shadow: 2px 5px #C0C0C0;
+}
+
+.center{
+	text-align: left;
+    position: absolute;
+  
+}
+
+.if{
+	font-style: italic;
+}
+
+.lab{
+	font-weight: bold;
+}
+.wh{
+    width: 350px;
+    height: 700px;
+    margin-left: 30%;
+    background-color: aqua;
+}
+.WH{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin-right: 5%;
+    margin-left: 7%;
+    background-color: aquamarine;
+}
+h2{
+    text-align: center;
+}

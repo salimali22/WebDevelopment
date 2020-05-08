@@ -1,0 +1,28 @@
+.list{
+    /* border: 1px solid black; */
+    width: 350px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+   
+    
+}
+.li{
+    min-height: 350px;
+}
+legend{
+    font-size: 15pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ol>li{
+    font-size: 13pt;
+    padding-bottom: 5px;
+    list-style-position: inside;
+    list-style-type: upper-roman;
+}
+body{
+    background-image: url(download.jpg);
+    background-size: cover;
+}

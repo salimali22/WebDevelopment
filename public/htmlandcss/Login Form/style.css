@@ -1,0 +1,76 @@
+.top {
+    vertical-align: text-top;
+    vertical-align: top;
+}
+.bv{
+    background-color: blueviolet;
+    padding: 5px;
+    
+}
+.centre{
+    text-align: center;
+}
+.srf{
+    font-size: 2em;
+    color: blueviolet;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    margin-bottom: 4%;
+}
+.image{
+    margin-top: 5%;
+    margin-bottom: 0%;
+    height: 90px;
+}
+.fn{
+    margin-left: 70px;
+}
+.ln{
+    margin-left: 73.25px;
+}
+.dob{
+    margin-left: 52.25px;
+}
+.ei{
+    margin-left: 94px;
+}
+.mn{
+    margin-left: 32px;
+}
+.gen{
+    margin-left: 93px;
+}
+.add{
+    margin-left: 85px;
+}
+.city{
+    margin-left: 117px;
+}
+.pc{
+margin-left: 81px;
+}
+.state{
+    margin-left: 105px;
+}
+.cntry{
+ margin-left: 79px;
+}
+.hobb{
+    margin-left: 84px;
+}
+.oth{
+    margin-left: 144px;
+}
+.qual{
+    margin-left: 35px;
+}
+.CA{
+    margin-left: 53px;
+}
+body{
+    color: white;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+div>div>div{
+    margin: 30px;
+}
