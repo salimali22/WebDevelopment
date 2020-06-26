@@ -1,0 +1,55 @@
+.btn{
+    width: 21%;
+    height: 60px;
+    font-size: 1.5em;
+    margin: 2px;
+    border: none;
+    background-color: white;
+}
+.btn-c{
+    width: 96%;
+    height: 60px;
+    font-size: 1.5em;
+    margin: 2px;
+    border: none;
+    background-color: white;
+}
+#input{
+    width: 95%;
+    height: 30px;
+    margin: 2px 0px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.main{
+    /* width: 15%; */
+    /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%); */
+    background-color: none;
+}
+.btn:hover{
+    background-color: grey;
+}
+.btn-c:hover{
+    background-color: grey;
+}
+body{
+    background-color: blue;
+}
+.heading{
+    /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%); */
+    font-family: serif;
+    text-align: center;
+}
+.ibody{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 15%;
+}
