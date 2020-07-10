@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StopWatch</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="Panel">
+    <h2>Current Time</h2>
+    
+  <canvas id="canvas"></canvas>
+  <h2>Stopwatch</h2>
+   <div >
+    <div class="stopwatch">
+<div class="line"><H4>Hours<br></H4> <p id = "hrs" class="back_white"></p> </div>
+<div class="line"><H4>Minutes <br></H4> <p id = "min" class="back_white"></p> </div>
+<div class="line"><H4>Seconds <br></H4> <p id = "sec" class="back_white"></p> </div>
+
+    </div>
+    
+    <div class="button">
+    <button id="start" onclick="start()" >START</button>
+    <button id="pause" onclick="pause()">PAUSE</button>
+    <button id="reset" onclick="reset()">RESET</button></div>
+   </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
