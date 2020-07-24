@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: red;
+}
+#Todoapp{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 700px;
+    background-color: black;
+    color: white;
+    height: 500px;
+    border-radius: 10%;
+    overflow-x: auto;
+    overflow-y : auto;
+}
+#top{
+    margin-top: 10px;
+}
+#tasks{
+    color: red;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 1.5em;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+    font-style: italic;
+}
