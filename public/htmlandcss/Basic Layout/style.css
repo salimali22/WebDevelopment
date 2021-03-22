@@ -1,0 +1,78 @@
+html{
+    background-color: #efe9eb;
+}
+
+
+/* //////////////////////////////////////////HEader\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
+.section-header{
+
+}
+.section-header .right{
+    float: right;
+    margin-right: 3%;
+    text-transform: uppercase;
+}
+.right .home{
+    color: #bd5774;
+}
+.right span{
+    margin: 5px 20px;
+}
+.section-header .left{
+    font-size: 1.5em;
+    font-family: 'Chango', cursive;
+    letter-spacing: 2px;
+    color: #bd5774;
+    margin-left: 15px;
+}
+
+.left span{
+    color: #c3c21a ;
+}
+
+
+
+/* ///////////////////////////////////Center Image\\\\\\\\\\\\\\\\\ */
+
+.section-center{}
+.section-center img{
+    min-width: 100%;
+}
+
+
+
+/* //////////////////////////////////////Bottom\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
+
+.section-bottom{}
+.section-bottom h2{
+    color: #bd5774;
+}
+.section-bottom .New-Products{
+    text-transform: uppercase;
+    font-weight:lighter;
+}
+.section-bottom .bottom{
+    margin: 50px 35px;
+}
+
+/* ////////////////////////////////////Footer\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
+.footer{
+    background-color:#c3c21a ;
+    color: #ffffff;
+}
+.footer span{
+    display: inline-block;
+
+}
+.footer1{
+        display: flex;
+    justify-content: space-around;
+    padding-top: 2.5%;
+}
+.footer img{
+    width: auto;
+    height: 50px;
+}
+.footer span{
+    text-align: center;
+}
